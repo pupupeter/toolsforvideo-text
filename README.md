@@ -17,4 +17,4 @@ The tools is for video-text so that could find points
 
 
 
-# it is for future that once i do not want to hear the voice, only wants to find text. (a little tool) 
+##  it is for future that once i do not want to hear the voice, only wants to find text. (a little tool) 
